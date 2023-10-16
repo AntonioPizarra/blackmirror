@@ -1,0 +1,16 @@
+/*******************************************************************/
+/*               Style sheet for Black Mirror web site             */
+/*               author: Antonio González                          */
+/*               version: 1.0                                      */
+/*               comments: classs project 2023/24                  */
+/*******************************************************************/
+
+body{ margin:0;padding:0; /* para desactivar el espacio separado por defecto*/
+    background-color: pink;}
+
+#wrapper{background-color: white;
+            width:80%;
+            margin:auto}
+
+nav {background-color: white;}
+
